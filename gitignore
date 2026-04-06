@@ -1,0 +1,19 @@
+# Data — too large for GitHub
+data/*.db
+data/*.sqlite
+data/images/
+data/raw/
+
+# Embeddings — too large for GitHub
+Embeddings/
+*.npy
+
+# Models — too large for GitHub
+Models/
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
