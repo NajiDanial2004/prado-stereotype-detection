@@ -1,0 +1,25 @@
+# Core data science
+numpy==2.4.3
+pandas==3.0.1
+scipy==1.17.1
+scikit-learn==1.8.0
+statsmodels==0.14.6
+
+# Deep learning
+torch  # version not recorded in notebooks (pre-installed in venv)
+transformers  # version not recorded in notebooks (pre-installed in venv)
+
+# Image processing
+Pillow==12.1.1
+
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Interface
+gradio==6.10.0
+
+# Utilities
+joblib==1.5.3
+tqdm==4.67.3
+huggingface-hub==1.7.1
